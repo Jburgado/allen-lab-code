@@ -29,9 +29,14 @@ This will be expanded to include single-cell RNA-seq analysis as well.
 
 [Comparison of methods](https://hbctraining.github.io/Training-modules/planning_successful_rnaseq/slides/RNAseq-strategies_mm.pdf)
 
-### Markdown
-https://www.markdownguide.org/basic-syntax/#blockquotes-1
+### R Studio
 
-####
+[Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+### Markdown
+
+(Offical Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+#### Contact
 Reach out to Jillybeth if you have suggestions, questions or comments related to the information provided above.
 
