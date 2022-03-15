@@ -35,7 +35,7 @@ This will be expanded to include single-cell RNA-seq analysis as well.
 
 ### Markdown
 
-(Offical Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+[Offical Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 #### Contact
 Reach out to Jillybeth if you have suggestions, questions or comments related to the information provided above.
