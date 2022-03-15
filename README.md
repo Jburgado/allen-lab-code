@@ -1,4 +1,6 @@
-# Introduction
+# Allen Lab Bioinformatics
+
+## Introduction
 Below are some tutorials and helfpul links for bioinformatics and data analysis basics. Most information below is related to bulk RNA-sequencing data processing and analysis.
 This will be expanded to include single-cell RNA-seq analysis as well. 
 
