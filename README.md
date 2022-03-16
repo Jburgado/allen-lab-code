@@ -1,8 +1,15 @@
-# Allen Lab Tutorials by JB
+# Allen Lab Tutorials 
 
 ## Introduction
-Below are some tutorials and helfpul links for bioinformatics and data analysis basics. Most information below is related to bulk RNA-sequencing data processing and analysis.
-This will be expanded to include single-cell RNA-seq analysis as well. 
+
+This repo contains in-house tutorials and outside links primarily related to bulk RNA-seqencing data processing and analysis. Basic pipelines and default options are primarily used throughout the tutorials. Additional links to package and software documentation are provided in each tutorial - please be sure to review  these documents when completing your own analysis. A separate repo for sc/sn-RNAseq will be developed in the future. 
+
+## Getting Started
+
+The Allen Lab has a Server dedicated to bioinformatics - this server can be used to store and process your sequencing data. Backups of all raw data generated in the lab should be kept on the server. For information on how to access the server or for a brief training on navigating the linux command line, please reach out to JB or LLB. If you experience any issues on the lab server, please reach out to JB or LLB asap. 
+
+R/Rstudio can be downloaded and used locally on your computer or through the lab server. For help accessing or downloading R/Rstudio, feel free to reach out to JB. 
+
 
 ## In-house tutorials/notes
 
@@ -39,6 +46,6 @@ This will be expanded to include single-cell RNA-seq analysis as well.
 
 [Offical Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-#### Contact
+#### 
 Reach out to Jillybeth if you have suggestions, questions or comments related to the information provided above.
 
