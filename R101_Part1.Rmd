@@ -28,7 +28,7 @@ The purpose of this tutorial is to introduce you to R/RStudio. We will cover the
 - Assigning variables
 - Reading in sample data
 
-A note before getting started: This tutorial is written in RMarkdown in order to provide formatted alongside the sample code. You have two option for following along: 1) Download this RNotebook file, save to your local computer, and write directly in the code blocks or 2) Open a new R Script, copy-paste the relevant code blocks, and edit as needed.
+> A note before getting started: This tutorial is written in RMarkdown (RMD) in order to provide formatted alongside the sample code. You have two option for following along: 1) Download this RMD file, save to your local computer, and write directly in the code blocks below or 2) Open a new R Script, copy-paste the relevant code blocks, and edit as needed.To download the RMD file, click on the top right-hand side where it says "Code". Then click on "Download Rmd". 
 
 # Getting Started 
 
@@ -38,12 +38,12 @@ First, download [R](https://www.r-project.org/) and [RStudio](https://rstudio.co
 
 Next, set up your **Project Directory**. This is optional, but I highly recommend making Project Directories for each "project" in order to easily read in your data and save files. You will only have to do this once. Afterwards, you can simply open the project and R files directly. 
 
-1.Make a folder on your local computer where you will save your data, R analysis files, etc. 
-2.Open RStudio
-3.Click on the File -> New Project -> New Directory -> New Project 
-4.Create a Project Name 
-5.Navigate to the folder you created in Step 1 
-6.Click Create Project
+1. Make a folder on your local computer where you will save your data, R analysis files, etc. 
+2. Open RStudio
+3. Click on the File -> New Project -> New Directory -> New Project 
+4. Create a Project Name 
+5. Navigate to the folder you created in Step 1 
+6. Click Create Project
 
 From here, you can either save this RMD tutorial file in your recently created Project Directory and open it in RStudio OR you can create a new R script (File -> New File -> R Script) 
 
