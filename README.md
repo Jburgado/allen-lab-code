@@ -15,6 +15,7 @@ R/Rstudio can be downloaded and used locally on your computer or through the lab
 
 | Link | Description |
 | ----------- | ----------- |
+|[R 101 tutorail Part 1](/R101_Part1.html)|Getting Started with R|
 | [Synapse Quantification & Stats Tutorial](/SynapseQuant_Statistics.html) | Basic R tutorial for graphing and statistics |
 | [RNAseq Pipeline w/ Salmon + DESeq2](/matt_aging_astrocyte_tutorial.html) | RNA-seq analysis in R after Salmon quasi-mapping |
 |[PDF: RNAseq Data Processing STAR & FeatureCounts](/RNAseq_STARFeatureCounts_Tau12mRibotagISH.pdf) | Command line notes/scripts for RNA-seq data processing with STAR and FeatureCounts using ISH data |
